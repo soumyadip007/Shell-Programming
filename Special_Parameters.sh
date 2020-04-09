@@ -1,10 +1,13 @@
-
-
-
 for i in $*
 do
     echo $i
 done
+
+# Soumyadip@DESKTOP-INVVN9F MINGW64 ~/Desktop/Shell-Programming (master)
+# $ bash Special_Parameters.sh Soumyadip Chowdhury
+# Soumyadip
+# Chowdhury
+
 
 
 # # # Special Parameters $* and $@
